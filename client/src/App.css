@@ -1,0 +1,23 @@
+.App {
+    position: relative;
+}
+
+.landing-page{
+    height: 100vh;
+    background-image: url('../public/images/spotted-eagle-ray.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.form-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    width: 70%;
+    height: 100%;
+}

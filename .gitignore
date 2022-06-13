@@ -1,0 +1,7 @@
+/client/node_modules
+/endangered_shp
+/extinct_shp
+/near_threatened_shp
+/vulnerable_shp
+/conservation_dependent_shp
+/critically_endangered_shp
